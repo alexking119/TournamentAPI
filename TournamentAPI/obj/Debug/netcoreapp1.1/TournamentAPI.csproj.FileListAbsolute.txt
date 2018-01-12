@@ -1,0 +1,9 @@
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI\bin\Debug\netcoreapp1.1\TournamentAPI.deps.json
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI\bin\Debug\netcoreapp1.1\TournamentAPI.runtimeconfig.json
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI\bin\Debug\netcoreapp1.1\TournamentAPI.runtimeconfig.dev.json
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI\bin\Debug\netcoreapp1.1\TournamentAPI.dll
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI\bin\Debug\netcoreapp1.1\TournamentAPI.pdb
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI\obj\Debug\netcoreapp1.1\TournamentAPI.csprojResolveAssemblyReference.cache
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI\obj\Debug\netcoreapp1.1\TournamentAPI.AssemblyInfo.cs
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI\obj\Debug\netcoreapp1.1\TournamentAPI.dll
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI\obj\Debug\netcoreapp1.1\TournamentAPI.pdb

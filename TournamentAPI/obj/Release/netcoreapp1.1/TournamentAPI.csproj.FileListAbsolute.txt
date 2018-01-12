@@ -1,0 +1,19 @@
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI\bin\Release\netcoreapp1.1\TournamentAPI.deps.json
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI\bin\Release\netcoreapp1.1\TournamentAPI.runtimeconfig.json
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI\bin\Release\netcoreapp1.1\TournamentAPI.runtimeconfig.dev.json
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI\bin\Release\netcoreapp1.1\TournamentAPI.dll
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI\bin\Release\netcoreapp1.1\TournamentAPI.pdb
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI\obj\Release\netcoreapp1.1\TournamentAPI.csprojResolveAssemblyReference.cache
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI\obj\Release\netcoreapp1.1\TournamentAPI.AssemblyInfo.cs
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI\obj\Release\netcoreapp1.1\TournamentAPI.dll
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI\obj\Release\netcoreapp1.1\TournamentAPI.pdb
+C:\Users\cex\Desktop\TournamentAPI\TournamentAPI\bin\Release\netcoreapp1.1\TournamentAPI.deps.json
+C:\Users\cex\Desktop\TournamentAPI\TournamentAPI\bin\Release\netcoreapp1.1\TournamentAPI.runtimeconfig.json
+C:\Users\cex\Desktop\TournamentAPI\TournamentAPI\bin\Release\netcoreapp1.1\TournamentAPI.runtimeconfig.dev.json
+C:\Users\cex\Desktop\TournamentAPI\TournamentAPI\bin\Release\netcoreapp1.1\TournamentAPI.dll
+C:\Users\cex\Desktop\TournamentAPI\TournamentAPI\bin\Release\netcoreapp1.1\TournamentAPI.pdb
+C:\Users\cex\Desktop\TournamentAPI\TournamentAPI\obj\Release\netcoreapp1.1\TournamentAPI.csprojResolveAssemblyReference.cache
+C:\Users\cex\Desktop\TournamentAPI\TournamentAPI\obj\Release\netcoreapp1.1\TournamentAPI.csproj.CoreCompileInputs.cache
+C:\Users\cex\Desktop\TournamentAPI\TournamentAPI\obj\Release\netcoreapp1.1\TournamentAPI.AssemblyInfo.cs
+C:\Users\cex\Desktop\TournamentAPI\TournamentAPI\obj\Release\netcoreapp1.1\TournamentAPI.dll
+C:\Users\cex\Desktop\TournamentAPI\TournamentAPI\obj\Release\netcoreapp1.1\TournamentAPI.pdb

@@ -1,0 +1,14 @@
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI.Tests\bin\Debug\netcoreapp1.1\TournamentAPI.Tests.deps.json
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI.Tests\bin\Debug\netcoreapp1.1\TournamentAPI.Tests.runtimeconfig.json
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI.Tests\bin\Debug\netcoreapp1.1\TournamentAPI.Tests.runtimeconfig.dev.json
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI.Tests\bin\Debug\netcoreapp1.1\TournamentAPI.Tests.dll
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI.Tests\bin\Debug\netcoreapp1.1\TournamentAPI.Tests.pdb
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI.Tests\bin\Debug\netcoreapp1.1\TournamentAPI.dll
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI.Tests\bin\Debug\netcoreapp1.1\TournamentAPI.pdb
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI.Tests\obj\Debug\netcoreapp1.1\TournamentAPI.Tests.csprojResolveAssemblyReference.cache
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI.Tests\obj\Debug\netcoreapp1.1\TournamentAPI.Tests.AssemblyInfo.cs
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI.Tests\obj\Debug\netcoreapp1.1\TournamentAPI.Tests.dll
+C:\Working\Tournament Server\TournamentAPI\TournamentAPI.Tests\obj\Debug\netcoreapp1.1\TournamentAPI.Tests.pdb
